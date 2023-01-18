@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.46478396.css",
-    "main.js": "/static/js/main.17fc6d3e.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/index.html",
-    "main.46478396.css.map": "/static/css/main.46478396.css.map",
-    "main.17fc6d3e.js.map": "/static/js/main.17fc6d3e.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/wealthpark-technical-assessment-demo/static/css/main.46478396.css",
+    "main.js": "/wealthpark-technical-assessment-demo/static/js/main.15dff1af.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/wealthpark-technical-assessment-demo/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/wealthpark-technical-assessment-demo/index.html",
+    "main.46478396.css.map": "/wealthpark-technical-assessment-demo/static/css/main.46478396.css.map",
+    "main.15dff1af.js.map": "/wealthpark-technical-assessment-demo/static/js/main.15dff1af.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/wealthpark-technical-assessment-demo/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46478396.css",
-    "static/js/main.17fc6d3e.js"
+    "static/js/main.15dff1af.js"
   ]
 }
